@@ -37,6 +37,8 @@ for (let i = 1; i <= N; i++){
 }
 console.log(Sprocess + "=" + Sum)
 
+
+
 var F = prompt('Enter a number to find the number factorial')
 var Factorial = 1
 var Fprocess = ""
@@ -45,6 +47,8 @@ for (let i = 1; i <= F; i++){
     Fprocess += i + (i < F ? "x" : "")
 }
 console.log( Fprocess + "=" + Factorial )
+
+
 
 var FibNum = prompt('Fibonacci')
 var a = 1

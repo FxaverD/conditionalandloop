@@ -21,10 +21,11 @@ if (Prime <= 1) {
         }
     }
 }
-if (isPrime) 
+if (isPrime) {
     console.log ('is a prime number')
-else
+} else {
     console.log ('is not a prime number')
+}
 
 
 
